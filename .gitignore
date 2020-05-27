@@ -33,8 +33,7 @@ obj/
 # ===================================== #
 *.pidb.meta
 sysinfo.txt
- *.meta
- !*.*.meta
+
 
 # ============ #
 # OS generated #
